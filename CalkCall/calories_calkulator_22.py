@@ -3,7 +3,7 @@ from kivy.uix.screenmanager import Screen
 from kivymd.uix.button import MDRectangleFlatButton
 
 
-class CalorieCalculator(MDApp):
+class CalculatorCalories(MDApp):
     def build(self):
         screen = Screen()
         screen.add_widget(
@@ -15,4 +15,4 @@ class CalorieCalculator(MDApp):
         return screen
 
 
-CalorieCalculator().run()
+CalculatorCalories().run()

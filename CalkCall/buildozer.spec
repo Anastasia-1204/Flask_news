@@ -4,7 +4,7 @@
 title = Calculator Calories
 
 # (str) Package name
-package.name = mortgagecalculator
+package.name = calculatorcall
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
@@ -46,7 +46,7 @@ requirements = python3,kivy==2.0.0,kivymd,https://github.com/kivymd/KivyMD/archi
 presplash.filename = %(source.dir)s/CalkCall/Calculator_30001.png
 
 # (str) Icon of the application
-icon.filename = %(source.dir)s/data/logo/logo512min.png
+## icon.filename = %(source.dir)s/data/logo/logo512min.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = all

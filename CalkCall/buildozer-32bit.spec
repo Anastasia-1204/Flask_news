@@ -7,7 +7,7 @@ title = Calculator Calories
 package.name = mortgagecalculator
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.wiseplat
+## package.domain = org.wiseplat
 
 # (str) Source code where the main.py live
 source.dir = .
